@@ -29,8 +29,6 @@ x=height();
 y=base();
 z=input();
 vol=0.33*((x*y*z)+(z/y));
-
 printf("Volume is %lf",vol);
-
 return 0;
 }
